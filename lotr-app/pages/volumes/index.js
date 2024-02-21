@@ -1,5 +1,5 @@
 import Link from "next/link";
-import introduction from "../lib/data";
+import { introduction } from "@/resources/lib/data";
 export default function Volumes() {
   return (
     <div>
